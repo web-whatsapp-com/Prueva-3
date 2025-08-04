@@ -69,6 +69,7 @@ user-select: none;
   top:50%;
   left: 50%;
   transform: translate(-50%, -50%);
+  margin-botton:9%;
 }
 ::placeholder {
   font-size:20px;
@@ -219,11 +220,6 @@ user-select: none;
   background-color: #;
 }
 .spn4 {
-  position:absolute;
-  top:65%;
-  left: 50%;
-  transform: translate(-50%);
-  width:56%;
   color:#000;
   text-align: center;
   font-size:15px;
